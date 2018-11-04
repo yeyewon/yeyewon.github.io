@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             yeyewon.j@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Home
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "http://blackrockdigital.github.io"
 
 # Social Profiles
