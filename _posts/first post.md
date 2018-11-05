@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "firrst first!!!"
-subtitle: "이렇게 하는게 맞는것인가"
+title:  "test!!!"
+subtitle: "서브타이틀"
 date:   2018-11-05
 background: '/img/posts/06.jpg'
 ---
