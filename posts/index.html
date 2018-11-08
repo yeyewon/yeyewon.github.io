@@ -22,8 +22,9 @@ background: '/img/bg-post.jpg'
       {% else %}
         {{ site.author }}
       {% endif %}
-      on  -->
-      {{ post.date | date: '%B %d, %Y' }}
+      on 
+      {{ post.date | date: '%B %d, %Y' }} -->
+      {{ post.date | date: '%B, %Y' }}
     </p>
   </article>
 
