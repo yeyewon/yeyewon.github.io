@@ -63,8 +63,8 @@
 // @mixin serif-font() {
 //   font-family: 'Lora', 'Times New Roman', serif;
 // }
-@mixin serif-font() {
-  font-family: 'Noto Sans KR', serif;
+@mixin sans-serif-font() {
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 @mixin sans-serif-font() {
