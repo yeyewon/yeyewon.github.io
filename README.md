@@ -2,7 +2,8 @@
 
 안녕하세요.<br>
 정예원 포트폴리오 입니다.
-<br>
+
+
 ## Preview
 
 [![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://yeyewon.github.io/)
