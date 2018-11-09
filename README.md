@@ -6,7 +6,7 @@
 
 ## Preview
 
-[![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://yeyewon.github.io/)
+[![yewon Portfolio Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://yeyewon.github.io/)
 
 
 
