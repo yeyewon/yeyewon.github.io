@@ -17,16 +17,16 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-# ...
-  collections:
+...
+collections:
   tags:
     output: true
     permalink: /tags/:path/
-# ...
+...
 defaults:
   - scope:
       path: ''
       type: tags
     values:
       layout: tag
-# ...
+...
