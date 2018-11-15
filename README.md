@@ -6,7 +6,7 @@
 
 ## Preview
 
-[![yewon Portfolio Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://yeyewon.github.io/)
+[![yewon Portfolio Preview](https://http://yeyewon.cafe24.com/images/githubBlog.png)](https://yeyewon.github.io/)
 
 
 
